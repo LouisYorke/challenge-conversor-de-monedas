@@ -1,4 +1,4 @@
-# Conversor de moneda - Java API Client
+# Conversor de monedas - Java API Client
 
 Este proyecto es un cliente de consola desarrollado en **Java** para la conversión de divisas en tiempo real. Fue diseñado como parte del programa **Oracle Next Education (ONE)**, aplicando principios de Programación Orientada a Objetos (POO) e integración con servicios REST externos.
 
